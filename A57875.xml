@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rules and orders of the Court of Common-Pleas made since his Majestie's restauration: taken from the originals of the said court, with the allowance and approbation of the Right Honourable the Lord Chief Justice North, and the judges of that court.</title>
+            <title>Rules, etc.</title>
+            <author>England and Wales. Court of Common Pleas.</author>
+         </titleStmt>
+         <extent>Approx. 77KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57875</idno><idno type="EEBO-CITATION">99830076</idno>
+  <idno type="VID">34525</idno>
+  <idno type="EEBO-PROQUEST">2248497895</idno>
+  
+            <idno type="STC">Wing R2251</idno>
+            <idno type="STC">ESTC R218490</idno>
+            <idno type="PROQUEST">99830076</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830076e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57875)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34525)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2018:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rules and orders of the Court of Common-Pleas made since his Majestie's restauration: taken from the originals of the said court, with the allowance and approbation of the Right Honourable the Lord Chief Justice North, and the judges of that court.</title>
+                  <title>Rules, etc.</title>
+                  <author>England and Wales. Court of Common Pleas.</author>
+               </titleStmt>
+               <extent>[8], 61, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the assigns of Richard and Edward Atkyns, esquires, for Robert Pawlet, at the Bible in Chancery-Lane near Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an order to print preceeding title page.</note>
+                  <note>With an initial table of contents and a final advertisment page.</note>
+                  <note>Running title reads: Rules and orders of the Court of Common-Pleas.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Court rules --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:34525:1"/>
+            <p>WE do Approve that <hi>Robert Paw<g ref="char:EOLhyphen"/>let</hi> shall Print the Rules of the Court of <hi>Common-Pleas.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>December</hi> 17th. 1682.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Fra. North.</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Wyndham.</hi>
+                     </item>
+                     <item>
+                        <hi>J. Charlton.</hi>
+                     </item>
+                     <item>
+                        <hi>Creswell Levinz.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:34525:1"/>
+            <p>THE Rules and Orders OF THE COURT OF COMMON-PLEAS, MADE Since his Majestie's Restauration: Taken from the Originals of the said Court, WITH The Allowance and Approbation of The Right Honourable THE Lord Chief Justice <hi>NORTH,</hi> AND The Judges of that COURT.</p>
+            <p>
+               <hi>London,</hi> Printed by the Assigns of <hi>Richard</hi> and <hi>Edward Atkyns,</hi> Esquires, for <hi>Robert Pawlet,</hi> at the Bible in <hi>Chancery-Lane</hi> near <hi>Fleet-street,</hi> 1682.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:34525:2"/>
+            <pb facs="tcp:34525:2"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>
+                  <hi>COncerning Bayles upon several Writs.</hi> Pag. 1.</item>
+               <item>
+                  <hi>Concerning Sheriffs for makeing sufficient De<g ref="char:EOLhyphen"/>puties for to take, receive and return Writs.</hi> 4</item>
+               <item>
+                  <hi>Concerning Attorneys suffering others to Practise in their Names.</hi> 5</item>
+               <item>
+                  <hi>Concerning Prisoners in Custody, in what time they must be declared against, or a</hi> Superse<g ref="char:EOLhyphen"/>deas <hi>to be granted of course.</hi> 10</item>
+               <item>
+                  <hi>Concerning Sheriffs discharging and suffering Pri<g ref="char:EOLhyphen"/>soners to go at Large, and Concerning the Re<g ref="char:EOLhyphen"/>turning their Writs and Process.</hi> 15</item>
+               <pb facs="tcp:34525:3"/>
+               <item>
+                  <hi>Concerning the Execution of Process to the Ʋt<g ref="char:EOLhyphen"/>lary, and in what case Costs shall be paid upon reversal.</hi> 18</item>
+               <item>
+                  <hi>Concerning Attorneys Entring their Causes in other Offices, than where they were first ad<g ref="char:EOLhyphen"/>mitted.</hi> 20</item>
+               <item>
+                  <hi>Concerning Clarks and Attorneys neglecting to Enter their Imparlances, and</hi> Incipiturs <hi>to warrant their Judgments.</hi> 23</item>
+               <item>
+                  <hi>Concerning the Returns of Writs of</hi> Exigi faci<g ref="char:EOLhyphen"/>as. 26</item>
+               <item>
+                  <hi>Concerning Attorneys neglecting to Enter the De<g ref="char:EOLhyphen"/>fendants appearances, and in what time they ought to be Entred.</hi> 28</item>
+               <item>
+                  <hi>Concerning the delivering of Copies of special Verdicts, and Demurrers to the Judges of the Court before the day for Argument.</hi> 31</item>
+               <item>
+                  <hi>Concerning Allowances of Writs of Errors, and Non-Suits upon them.</hi> 33</item>
+               <pb facs="tcp:34525:3"/>
+               <item>
+                  <hi>Concerning the delivery of Writs of Errors, to the Clarke of the Errors.</hi> 34</item>
+               <item>
+                  <hi>Concerning Rules of Court, for the staying and stoping of Fines.</hi> 35</item>
+               <item>
+                  <hi>Concerning Caveats and Rules, for stoping of Fines with the Kingssilver Office, and when they must be renewed and delivered.</hi> 37</item>
+               <item>
+                  <hi>Concerning all Attorneys to be admitted of an Inns of Court or Chancery upon their admit<g ref="char:EOLhyphen"/>tance except those that live in</hi> London <hi>and</hi> Westminster, <hi>and the Suburbs thereof, or in the Burrough of</hi> Southwark, <hi>and the Liberty of St.</hi> Katharines <hi>near the Tower of</hi> London. 38</item>
+               <item>
+                  <hi>Concerning Records of</hi> Nisi Prius, <hi>and that the Prothonotaries figure every Warrant.</hi> 40</item>
+               <item>
+                  <hi>Concerning Attorneys and other Officers, sueing out Writs of Privilege.</hi> 43</item>
+               <item>
+                  <hi>Concerning the makeing up of Records, for Try<g ref="char:EOLhyphen"/>all at the Assizes.</hi> 45</item>
+               <pb facs="tcp:34525:4"/>
+               <item>
+                  <hi>Concerning the better observation of a late Act of Parliament, made concerning Judgments.</hi> 46</item>
+               <item>
+                  <hi>Concerning Clarkes and Attorneys filing their Warrants and Writs upon Common Recove<g ref="char:EOLhyphen"/>ries.</hi> 50</item>
+               <item>
+                  <hi>Concerning the filing of Writs of Seizin, and Writs of Entry.</hi> 52</item>
+               <item>Regula generalis quoad Narrationes in Ejecti<g ref="char:EOLhyphen"/>one firme in <hi>London</hi> &amp; in Com. <hi>Midd.</hi> 54</item>
+               <item>Generalis regula pro Custagiis super Prosecu<g ref="char:EOLhyphen"/>tione ad Utlagar'. 55</item>
+               <item>Regula generalis de Statuto penali. 56</item>
+               <item>Regula pro manu Attorn' Generalis ad bre<g ref="char:EOLhyphen"/>via de Ingressu habend'. 57</item>
+               <item>
+                  <hi>Concerning the Prothonotaries delivering of Rolls to the Attorneys and Clarkes of the Court, and when they are to be brought in to them again.</hi> 58</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="orders">
+            <pb n="1" facs="tcp:34525:4"/>
+            <head>THE Rules and Orders OF THE COURT OF COMMON-PLEAS, Made since his Majestie's Restauration.</head>
+            <div type="order">
+               <head>De Termino <hi>Hil.</hi> 13 <hi>&amp;</hi> 14 <hi>Car.</hi> 2. R. <hi>Rules Concerning Bayles.</hi>
+               </head>
+               <p>THat Writs of <hi>Habeas Corpus</hi> di<g ref="char:EOLhyphen"/>rected to the inferiour Courts of <hi>London, Westminster, Southwark</hi> and other Courts, within five Miles of <hi>London</hi> may be returnable immediate. And
+<pb n="2" facs="tcp:34525:5"/>if the Defendant intendeth to be bayled, then upon or within four days after allowance of the Writ, the day of which allowance being endorsed by such Officer as allows the same on the back of the said Writ, notice is to be given in writing of the names and additions of the Bayle, the time when, and the Judge before whom the same is intended, to be put into the Plaintiff or his Attorney, or him that caused the plaint to be entred, or if none can be found, then notice of the premisses to be left in writing with the Cheif Clarke of the inferiour Court, or his Deputy by the party that tenders the Bayle or his Attorney, and Oath made thereof, otherwise the Bayle not to be taken, And a <hi>procedendo</hi> granted if de<g ref="char:EOLhyphen"/>sired before Bayle excepted. That if no Bayle in such causes be put in within eight days af<g ref="char:EOLhyphen"/>ter the <hi>Habeas Corpus</hi> allowed in those Courts, when it is retornable immediate a <hi>procedendo</hi> may be granted by any Judge of this Court if desired before Bayle taken. And if Bayle be taken in the absence of the Plain<g ref="char:EOLhyphen"/>tiff or his Attorney, the same is to be taken <hi>de bene esse.</hi> And if no exception be taken within twenty days after the Bayle taking, no<g ref="char:EOLhyphen"/>tice having been given as aforesaid, then the
+<pb n="3" facs="tcp:34525:5"/>Bayle to be delivered out to be filed. That if Bayle upon a <hi>Habeas Corpus</hi> be taken be<g ref="char:EOLhyphen"/>fore a Judge at his Chamber and not dissassen<g ref="char:EOLhyphen"/>ted unto, if not filed within four days after the twenty days a <hi>procedendo</hi> may be granted upon Certificate that it is not filed. That in Term-time the Plaintiff in the inferiour Court may speed the Defendant to put in and to file his Bayle by rules given in the Bill of Pleas. And if not filed according to the rules upon Certificate thereof a <hi>procedendo</hi> to be gran<g ref="char:EOLhyphen"/>ted. That all Writs of <hi>Habeas Corpus</hi> re<g ref="char:EOLhyphen"/>tornable in Court be retornable at a day cer<g ref="char:EOLhyphen"/>tain. That upon Bayle taken of persons in Custody the Judges Clarke to deliver the Bayle to the Prothonotarie to be filed if assented unto. And to that end the Prothonotarie's fees to be deposited, but the Prisoner not to be discharged untill the Bayle be assented un<g ref="char:EOLhyphen"/>to, or overruled in open Court.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Orl. Bridgman.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Hyde.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Tyrrill.</hi>
+                        </item>
+                        <item>
+                           <hi>Sam. Browne.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="4" facs="tcp:34525:6"/>
+               <head>Hil. <hi>14</hi> &amp; <hi>15</hi> Car. <hi>2. R.</hi> Concerning Sheriffs for makeing Deputies and re<g ref="char:EOLhyphen"/>turning of Writs.</head>
+               <p>IT is ordered that every Sheriff shall make and cause to be entred on Record a suffici<g ref="char:EOLhyphen"/>ent Deputy, to receive all manner of Writs and process, under the pains and penalties mentioned in the Statute in that behalf, made in the 23th. year of the Reign of the late King <hi>Henry</hi> the Sixth, which Law shall be hence<g ref="char:EOLhyphen"/>forth duely put in execution. And it is further ordered that the said Sheriffs, or their sufficient Deputies, shall give their personal attendence in <hi>Westminster-Hall</hi> daily in the Term-time, that so they may with the more convenience dispatch those services which ap<g ref="char:EOLhyphen"/>pertain to their Offices respectively. And that no Sheriff, or Sheriffs Deputy, shall de<g ref="char:EOLhyphen"/>liver or make, or cause or suffer to be delive<g ref="char:EOLhyphen"/>red or made, any Warrant or Warrants be<g ref="char:EOLhyphen"/>fore the Writ or Writs be duely sued forth and delivered to the said Sheriffs or their Depu<g ref="char:EOLhyphen"/>ties respectively. Neither shall the said Sheriffs nor their Deputies deliver or cause or suffer to
+<pb n="5" facs="tcp:34525:6"/>be delivered, any blanck Warrants. Nor shall any Clarke or Attorney of this Court, receive or procure to be made any such blanck War<g ref="char:EOLhyphen"/>rants, upon pain of severe punishment, and fine to be imposed upon the said Sheriffs and their Deputies, and utter expulsion of the said Clarks or Attorneys respectively offending in the premisses.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Orl. Bridgman.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Hyde.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Tyrrill.</hi>
+                        </item>
+                        <item>
+                           <hi>Sam. Browne.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <head>Hil. <hi>14</hi> &amp; <hi>15</hi> Car. <hi>2. R.</hi> Concerning Attorneys suffering others to Practise in their Names.</head>
+               <p>WHereas every Attorney of this Court, as well by his Oath and the duty of his place, as under divers penalties by special Acts of Parliament, and former orders of this Court being reteyned to be Attorney for any person or persons Demandant or Plaintiff Te<g ref="char:EOLhyphen"/>nant
+<pb n="6" facs="tcp:34525:7"/>or Defendant, in any action or suite in this Court is bound to deliver or cause to be delivered his Warrant of Attorney to the Offi<g ref="char:EOLhyphen"/>cer or his Deputy, ordeyned for the receipt and entrey thereof in this Court. And where<g ref="char:EOLhyphen"/>as by the Statute made in the third year of the Reign of our late Sovereign Lord King <hi>James,</hi> It is enacted that no Attorney shall permit any other to follow any suite in his Name. And that every Attorney so doing, shall be excluded from being an Attorney for ever thereafter. And whereas by order of this Court, every Attorney of this Court, ought to appear in person upon or before the fourteenth day of <hi>Michaelmas</hi>-Term, and upon or before the seventh day of every o<g ref="char:EOLhyphen"/>ther Term, upon pain of Ten-shillings for the first default, Twenty-shillings for the se<g ref="char:EOLhyphen"/>cond default, and putting out of the Roll for the third default, and that the appearan<g ref="char:EOLhyphen"/>ces should be entred with the Clarke of the Warrants, and that the name of the defaul<g ref="char:EOLhyphen"/>ters should be delivered to the Court by the Clarke of the Warrants or his Deputy, with<g ref="char:EOLhyphen"/>in three days after the time required for ap<g ref="char:EOLhyphen"/>pearances. Notwithstanding all which Laws and Orders through the disorderly practice
+<pb n="7" facs="tcp:34525:7"/>and negligence of divers Attorneys of this Court, especially of the younger sort for want of their Attendence upon their Office of At<g ref="char:EOLhyphen"/>torney here in Court, and permitting others to practise in their names, and neglect to de<g ref="char:EOLhyphen"/>liver their Warrants of Attorney to be filed, and entred of Record, very many great in<g ref="char:EOLhyphen"/>conveniences, troubles and Errors have been found and arisen of late time more than for<g ref="char:EOLhyphen"/>merly, to the scandal of the Court, and of the honest Attorneys practising therein, and the great prejudice and loss of many of his Majestie's good Subjects, as well Plaintiffs as Defendants, Demandants and Tenants in their suits depending in this Court.</p>
+               <p>For Remedy of which Mischiefs and in<g ref="char:EOLhyphen"/>conveniences, and for avoyding of Errors for the time to come. It is forbidden by the Justices of this Court upon pain of expulsion from this Court, that no Attorney of this Court permit any other to practise in his name. And it is further declared and ordered by this Court, that every Attorney of this Court do from henceforth appear in person within the times in every Term before limited and ex<g ref="char:EOLhyphen"/>pressed under the penalties before mentioned for their defaults. And that every Attorney
+<pb n="8" facs="tcp:34525:8"/>of this Court do file his Warrants of Attorney of the Term, wherein any exigent is awarded, demurrer or Issue Joyned, or Judgment en<g ref="char:EOLhyphen"/>tred, or which of them shall first happen up<g ref="char:EOLhyphen"/>on pain of forty-shillings for every time he offendeth, and be attainted by due examina<g ref="char:EOLhyphen"/>tion made by the Justices of this Court, such Warrant to be filed upon or before the Essoyn day of every Trinity-Term, and with<g ref="char:EOLhyphen"/>in the space of one and twenty days next af<g ref="char:EOLhyphen"/>ter the end of every other Term. And that no Officer of this Court do make or suffer to be made any process or entrey in the name of any person not sworn an Attorney, nor entred in the Roll of Attorneys, or in the name of any person put out of the Rolls of Attorney, either as a discontinuer or for any misdemeaner, or by Rule of Court after no<g ref="char:EOLhyphen"/>tice thereof given to such Officer by the Clarke of the Warrants of this Court for the time being or his Deputy, and for the better effect<g ref="char:EOLhyphen"/>ing the due observance of this present order. It is lastly ordered that the Clarke of the War<g ref="char:EOLhyphen"/>rants of this Court for the time being or his Deputy, or the person appointed yearly by the Court to give information to the Court from time to time of Breaches of Orders and
+<pb n="9" facs="tcp:34525:8"/>miscarriages of Officers, Clarks and Attorneys in every <hi>Michaelmas</hi>-Term, or oftner if re<g ref="char:EOLhyphen"/>quired, shall and may present to the Court from time to time the name and names of e<g ref="char:EOLhyphen"/>very Attorney or Attorneys offending against this Order. To the intent that the Court may examine every Attorney complained against concerning any of the matters before rehear<g ref="char:EOLhyphen"/>sed, and upon attainting any such Attorney upon due examination had, may inflict such punishment by fine, imprisonment or expul<g ref="char:EOLhyphen"/>sion as the Case shall require, or give directi<g ref="char:EOLhyphen"/>ons for informations to be exhibited against the most frequent and notorious offenders for the greater penalties mentioned in the Sta<g ref="char:EOLhyphen"/>tute thereof made and provided.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Orl. Bridgman.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Hyde.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Tyrrill.</hi>
+                        </item>
+                        <item>
+                           <hi>Sam. Browne.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="10" facs="tcp:34525:9"/>
+               <head>Sancti <hi>Hil.</hi> Annis <hi>14</hi> &amp; <hi>15 Car.</hi> Secundi Regis.</head>
+               <p>WHereas many persons arrested upon mean process issuing out of this Court, and upon plaints levied in inferi<g ref="char:EOLhyphen"/>our Courts, and removed to the Fleet by <hi>Habeas Corpus</hi> with those causes returned upon them, have bene deteyned thereupon for a long time, as well in the custody of Sheriffs and Gaolers as in the prison of the Fleet without any prosecution or proceedings against them in this Court. Now forasmuch as every person having cause of Action against any Prisoner in the Fleet, may have speedy proceedings against such Prisoner. Therefore and also to prevent unjust vexations by long deteyning of persons in Prison there for the future. It is ordered by the Justices of the Court of Common-Bench this present Term of St. <hi>Hill.</hi> that if any person be committed to the Fleet by <hi>Habeas Corpus</hi> in this present Term, or in any other <hi>Hill.</hi> Term, or in the Va<g ref="char:EOLhyphen"/>cation following this Term or any other <hi>Hill.</hi> Term, unless the Plaintiff or Plaintiffs at
+<pb n="11" facs="tcp:34525:9"/>whose Suite the Prisoner stands charged at the Fleet, shall bring such Prisoner to the Bar of this Court by <hi>Habeas Corpus,</hi> and declare a<g ref="char:EOLhyphen"/>gainst him within six days after <hi>Trinity</hi>-Term begun, such Prisoner may be discharged by <hi>Supersedeas</hi> to be issued of course out of the Prothonotaries-Office of this Court, where the commitment of the said Prisoner with his causes is entred, so as such Prisoner first enter his appearance by Attorney with the said Pro<g ref="char:EOLhyphen"/>thonotarie in case of an Attachment of privi<g ref="char:EOLhyphen"/>lege, or of a plaint, or with the Filazer upon other process returnable in this Court: And do bring a Certificate under the hand of the Warden or Clarke of the Fleet, that no pro<g ref="char:EOLhyphen"/>ceedings by <hi>Habeas Corpus</hi> have been had a<g ref="char:EOLhyphen"/>gainst him within the time aforesaid. And that if any person be committed to the Fleet in any <hi>Easter</hi>-Term, or in the Vacation fol<g ref="char:EOLhyphen"/>lowing any <hi>Easter</hi>-Term, unless the Plaintiff or Plaintiffs bring such Prisoner to the Bar of this Court by <hi>Habeas Corpus,</hi> and declare a<g ref="char:EOLhyphen"/>gainst him within six days after <hi>Michaelmas</hi>-Term begun, such Prisoner shall be discharg<g ref="char:EOLhyphen"/>ed in manner aforesaid. And that if any person be committed to the Fleet, in any <hi>Tri<g ref="char:EOLhyphen"/>nity</hi>-Term, or in the Vacation next following
+<pb n="12" facs="tcp:34525:10"/>any <hi>Trinity</hi>-term, unless the Plaintiff or Plaintiff bring the Prisoner to the Bar of this Court by <hi>Habeas Corpus</hi> and declare against him be fore the end of <hi>Michaelmas</hi>-Term following, such Prisoner may be discharged in manner a<g ref="char:EOLhyphen"/>foresaid. And that if any Person be com<g ref="char:EOLhyphen"/>mitted to the Fleet in any <hi>Michaelmas</hi>-Term, or in the Vacation following after any <hi>Micha<g ref="char:EOLhyphen"/>elmas</hi>-Term, unless the Plaintiff or Plaintiffs bring the Prisoner to the Bar of this Court by <hi>Habeas Corpus</hi> and declare against him within six days after <hi>Easter</hi>-Term begun, such Prisoner may be discharged in manner afore<g ref="char:EOLhyphen"/>said. And the Plaintiff or Plaintiffs may de<g ref="char:EOLhyphen"/>clare upon such appearance entred the next Term after such appearance or <hi>Supersedeas</hi> granted. And the Attorney appearing for such Prisoner shall be bound to take a Decla<g ref="char:EOLhyphen"/>ration and not afterwards. And as concer<g ref="char:EOLhyphen"/>ning persons arrested and remaining in the custody of any Sheriff or Gaoler upon any mean process issuing out of this Court. It is further ordered that if the Plaintiff or Plain<g ref="char:EOLhyphen"/>tiffs at whose suite such person is arrested and in custody do not remove such Prisoner by <hi>Habeas Corpus</hi> to the Fleet, nor the Prisoner enter appearance in manner aforesaid. Such
+<pb n="13" facs="tcp:34525:10"/>Prisoner may be discharged by <hi>Supersedeas</hi> in the end of the third Term after the arrest according to the course anciently used. And the Plaintiff may declare upon such appea<g ref="char:EOLhyphen"/>rance the Term following but not after, but if such Prisoner cause appearance to be entred for him by Attorney, and cause notice there<g ref="char:EOLhyphen"/>of to be given to the Plaintiff or his Attorney. And if Oath thereof be made in writing and filed in Court. Unless the Plaintiff or Plain<g ref="char:EOLhyphen"/>tiffs declare against such Prisoner in the Term next after such appearance, the Prisoner may be discharged by <hi>Supersedeas.</hi> So as Oath be made to the Attorney for the Defendant, that no declaration have been delivered or tendred to him. And the Plaintiff or Plaintiffs may declare against the Defendant the Term next after such appearance entred. But not after<g ref="char:EOLhyphen"/>wards.</p>
+               <p>And for the certainty of the practice in proceeding to be had against Prisoners in the Fleet by virtue of the late Act of Parliament. It is further declared and ordered by this Court, that in case any such Prisoner shall hereafter be brought to the Bar of this Court, by a Writ of <hi>Habeas Corpus</hi> returnable at any day certain being before the day of appearance
+<pb n="14" facs="tcp:34525:11"/>of the third return of any Term. And the said Prisoner name an Attorney who shall ap<g ref="char:EOLhyphen"/>pear for him at the suite of the Plaintiff in the Action in the said Writ specified. The said Defendant be compellable to plead by the last day of the said Term, to a Declaration to be delivered to the said Attorney if the Plaintiff give a rule for him so to do. But where any Prisoner is brought to the Bar, by such Writ returnable after the day of appearance of such third return of any Term, the Defendant of course to have imparlance untill the next Term following. But if such Prisoner refuse to nominate an Attorney to appear for him. Then such Prisoner is to plead within Eight days according to the said Act, provided that there be Eight days after the return of the <hi>Habeas Corpus</hi> to give a Rule to be out within the Term. And, lastly it is ordered that after issue joyned, ten days notice at the least ex<g ref="char:EOLhyphen"/>clusive of the day of such notice be given to the Defendant (being actually in the Prison of the Fleet) of the time of Tryal of such issue to be had.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Orl. Bridgman.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Hyde.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Tyrrill.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="15" facs="tcp:34525:11"/>
+               <head>Sancti <hi>Hil.</hi> Annis <hi>15</hi> &amp; <hi>16 Car.</hi> Secundi Regis.</head>
+               <p>WHereas the Kings Majesties Justices of this Court have received information. That very many under-Sheriffs of this King<g ref="char:EOLhyphen"/>dome and the dominion of <hi>Wales,</hi> Notwith<g ref="char:EOLhyphen"/>standing several Acts of Parliament, and di<g ref="char:EOLhyphen"/>vers orders of this Court to admonish them of the Duties of their Places, in conformity there<g ref="char:EOLhyphen"/>unto, have neglected to have their Deputies upon Record, and to attend the Court in Term-time, to receive Writs and process issu<g ref="char:EOLhyphen"/>ing out of and returnable in this Court, and to make and deliver due returns of the same. And also have neglected the Execution of many such Writs and process to them delivered, or having made Execution of the same process by arrest or otherwise, have let persons go at large without taking security or due order for their appearance. And having taken the Bodies, or seized the Lands or Goods of persons outlawed upon Writs of <hi>capias Ʋt<g ref="char:EOLhyphen"/>legat.</hi>
+                  <pb n="16" facs="tcp:34525:12"/>issuing out of this Court, have dischar<g ref="char:EOLhyphen"/>ged such persons and their Lands and Goods without Writs of <hi>Supersedeas</hi> for the same, or making any return to the Court contrary to their Oaths and Duties of their places, and expresly against the Statute thereof lately made and provided to the manifest delay of Justice, the Diminution of his Majesties revenue, the loss of many Mens just Debts, and the incou<g ref="char:EOLhyphen"/>ragement of persons to stand in contempt of the Laws of this Realm. All which inconve<g ref="char:EOLhyphen"/>niences and mischeifs his Majesties Justices be<g ref="char:EOLhyphen"/>ing resolved to use their utmost endeavour and power to reform by examining and se<g ref="char:EOLhyphen"/>verely punishing all Sheriffs, and Under-She<g ref="char:EOLhyphen"/>riffs, and their Clarkes, Deputies and Bayliffs whom they shall find hereafter faulty in the premisses. It is therefore ordered and decla<g ref="char:EOLhyphen"/>red by the said Justices of this Court, that every of the said Sheriffs before the last day of this present Term, And afterwards before the last return of the Term next after the tak<g ref="char:EOLhyphen"/>ing of his Oath of Sheriff shall make a Deputy on Record in this Court, according to the Statute made in the three and twentieth year of the Reign of King <hi>Henry</hi> the Sixth in that behalf. And that all Under-Sheriffs or their
+<pb n="17" facs="tcp:34525:12"/>Deputies duely attend the Court in Term<g ref="char:EOLhyphen"/>time, and that they duely execute and return the Writs and process of this Court, and take sufficient security, or certain order for ap<g ref="char:EOLhyphen"/>pearance of all persons by them arrested ac<g ref="char:EOLhyphen"/>cording to Law.</p>
+               <p>And that no Sheriff, Under-Sheriff, Sher<g ref="char:EOLhyphen"/>iffs Clarke, Deputy or Bayliff, nor any Stew<g ref="char:EOLhyphen"/>ard, Bayliff of Franchise, Coroner, or their Clarke or Deputy, shall set at liberty any per<g ref="char:EOLhyphen"/>son taken upon any Writ of <hi>Capias Ʋtlegat.</hi> nor discharge the Lands or Goods of any per<g ref="char:EOLhyphen"/>son Outlawed by them seized upon any Writs of <hi>Capias Ʋtlegat.</hi> without a lawfull Writ of <hi>Supersedeas</hi> under the Seale of this Court to them delivered for such discharge, according to the late Act of Parliament in the thirteenth year of his now Majestie's Reign in that behalf made and provided. And it is farther ordered that no such <hi>Supersedeas</hi> be made or issued out of this Court by any Officer, Clarke, Attorney or Minister of the same, without sufficient Bayle first taken according to Law and former orders and usages of this Court, upon pein of in<g ref="char:EOLhyphen"/>curring the severest punishment which ac<g ref="char:EOLhyphen"/>cording to Law and Justice can be in<g ref="char:EOLhyphen"/>flicted
+<pb n="18" facs="tcp:34525:13"/>upon the Offenders in any of the premisses.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Orl. Bridgman.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Tyrrill.</hi>
+                        </item>
+                        <item>
+                           <hi>Sam. Browne.</hi>
+                        </item>
+                        <item>
+                           <hi>Jo. Archer.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <head>Sancti <hi>Michaelis</hi> apud <hi>Oxon</hi> Anno <hi>xvii. Car.</hi> Secundi Regis, <hi>&amp;c.</hi>
+               </head>
+               <p>FOr the better execution of the process of <hi>Ʋtlary</hi> to be made and issued by and out of this Court, and the prevention of di<g ref="char:EOLhyphen"/>vers abuses by a neglect of the same. It is ordered that upon every Writ of Exigent which shall be sued forth of this Court, from and after this Term, if a <hi>Supersedeas</hi> be not put in thereunto at or before the return there<g ref="char:EOLhyphen"/>of. That no <hi>Supersedeas</hi> shall by any Sheriff or other Officer, be allowed as an appearance to any such Writ of Exigent untill the De<g ref="char:EOLhyphen"/>fendant shall have paid unto the Plaintiff or his Attorney, or left in the Court with one
+<pb n="19" facs="tcp:34525:13"/>of the Prothonotaries thereof, the full and just costs of Suite as he shall have been at in the suing forth of such Writ of Exigent to be taxed by the said Prothonotarie. And <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat upon reversing of all and every <hi>Ʋtlary</hi> the party Defendant which reverseth the same shall before the reversall thereof or any <hi>Super<g ref="char:EOLhyphen"/>sedeas</hi> made thereunto, give special Bayle if the Sum of Money or Damages expressed in the Original Writ whereupon the Exigent was awarded shall amount to the Sum of twenty pounds, and the Plaintiff or Plaintiffs shall require the same and pay to the Plaintiff or Plaintiffs or his or their Attorney, or leave in the Court for him or them, his or their full and just costs of Suite expended in the prosecution of the same to be taxed as afore<g ref="char:EOLhyphen"/>said. And for the prevention of the great and common abuse committed by the Sheriffs and Bayliffs for enlarging of persons arrested upon <hi>Capias Ʋtlegat.</hi> before Judgment, a <hi>Su<g ref="char:EOLhyphen"/>persedeas</hi> first had. It is farther ordered that if any Sheriff or Officer whatsoever shall set at liberty any person arrested upon a <hi>Capi<g ref="char:EOLhyphen"/>as Ʋtlegat.</hi> before Judgment without a law<g ref="char:EOLhyphen"/>full <hi>Supersedeas</hi> in that behalf first delivered unto him or them. That upon Affidavit
+<pb n="20" facs="tcp:34525:14"/>thereof made and filed, every person offen<g ref="char:EOLhyphen"/>ding therein shall pay the Sum of forty-shil<g ref="char:EOLhyphen"/>lings to the party greived, or complaining who shall have an Attachment of course a<g ref="char:EOLhyphen"/>gainst such Sheriff, Officer or party offending for the payment of the same, and the party or parties so offending shall likewise undergo such other punishments as by this Court shall be thought fit.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Orl. Bridgman.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Tyrrill.</hi>
+                        </item>
+                        <item>
+                           <hi>Sam. Browne.</hi>
+                        </item>
+                        <item>
+                           <hi>Jo. Archer.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <head>Sanctae <hi>Trinitatis,</hi> Anno <hi>xxi Car.</hi> Secundi Regis, <hi>&amp;c.</hi>
+               </head>
+               <p>VVHereas by the Ancient Course and Usage of this Court, every At<g ref="char:EOLhyphen"/>torney thereof ought to remain and continue, and make his entreys in that Prothonotarie's Office onely, wherein such Attorney by his own Election was first Sworn and setled, and not to remove or withdraw himself or any of his Business from that Office, to any other of the Prothonotaries Offices, without the li<g ref="char:EOLhyphen"/>cence
+<pb n="21" facs="tcp:34525:14"/>of this Court, upon just cause first shewed and allowed by the Court. And whereas several good Orders have been made by this Court, for the continuance and ob<g ref="char:EOLhyphen"/>servance of the said ancient course. Never<g ref="char:EOLhyphen"/>theless of late time several Attorneys of this Court have withdrawn themselves and their Business from the respective Offices wherein they made their first Election, to enter their causes, whereby great mischeifs have hap<g ref="char:EOLhyphen"/>pened to divers of his Majestie's good Sub<g ref="char:EOLhyphen"/>jects, and great disorders and confusion have been occasioned in this Court. For Remedy whereof, and for setling good order in this Court for the future. And to the intent the said Ancient course may be duely observed hereafter. It is ordered by the Justices of this Court this present <hi>Trinity</hi>-Term, that every Attorney of this Court who at or upon the first day of <hi>Easter</hi>-Term, in the Twentieth year of his now Majestie's Reign, or at any time since, hath withdrawn himself or any of his causes from that Prothonotarie's Office, where he was then setled unto any other Office, do upon notice of this present order reduce himself unto that Prothonotarie's Of<g ref="char:EOLhyphen"/>fice where he was then setled, and there con<g ref="char:EOLhyphen"/>tinue
+<pb n="22" facs="tcp:34525:15"/>and henceforward cause all his Business and causes to be entred and made in the said Prothonotarie's Office onely, and in no other Office, upon pain of incurring the displeasure of this Court, and such penalties as this Court shall think fit to inflict for the first offence, and for the second offence to be expelled from this Court. And it is farther ordered, that no Attorney of this Court ad<g ref="char:EOLhyphen"/>mitted since the first day of the said <hi>Easter</hi>-Term, nor any other Attorney hereafter to be admitted without the licence of this Court, upon just cause shewed and allowed by the Court, first had, shall shift from the Prothono<g ref="char:EOLhyphen"/>tarie's Office where he hath or shall make his own Election and be Sworn and setled as a<g ref="char:EOLhyphen"/>foresaid upon like penalties aforesaid. And it is farther ordered that no Prothonotarie of this Court shall hereafter permit or suffer any such removing or shifting Attorney to enter any of his causes in his Office contrary to this present order.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Jo. Vaughan.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Tyrrill.</hi>
+                        </item>
+                        <item>
+                           <hi>Jo. Archer.</hi>
+                        </item>
+                        <item>
+                           <hi>W. Wylde.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="23" facs="tcp:34525:15"/>
+               <head>Sanctae <hi>Trinitatis</hi> Anno <hi>xxi. Car.</hi> Secundi Regis, <hi>&amp;c.</hi>
+               </head>
+               <p>WHereas upon complaint daily made unto this Court, it doth plainly ap<g ref="char:EOLhyphen"/>pear that many disorders are of late crept in<g ref="char:EOLhyphen"/>to this Court, by reason that the Clarks and Attorneys of this Court do neglect according to their Duty, and the ancient usage and custom of this Court, to enter upon Record Imparlances or <hi>Incipiturs,</hi> in all such causes wherein Imparlances or <hi>Incipiturs</hi> ought to be entred. And by reason thereof many Judg<g ref="char:EOLhyphen"/>ments are entred and Issues are joyn'd before there is any foundation in Law, or prece<g ref="char:EOLhyphen"/>ding Record to warrant the same. And there<g ref="char:EOLhyphen"/>by Defendants are compelled to plead to an erroneous Copy, not warranted by any Re<g ref="char:EOLhyphen"/>cord to the manifest and apparent damage of his Majestie's Subjects, and contrary to the Ancient orders and proceedings of this Court. For the prevention whereof, to the intent the said Ancient course may be duely observed hereafter. It is ordered by the Justices of this Court this present <hi>Trinity</hi>-Term, that all At<g ref="char:EOLhyphen"/>torneys
+<pb n="24" facs="tcp:34525:16"/>attorneys and Clarks of this Court do hence<g ref="char:EOLhyphen"/>forth duely enter or cause to be entred, Im<g ref="char:EOLhyphen"/>parlances or <hi>Incipit.'</hi> in all causes according to the ancient usage of this Court, and that the want of entring an Imparlance or <hi>Incipi<g ref="char:EOLhyphen"/>tur</hi> in every cause wherein Imparlances ought to be entred, be a sufficient cause for the De<g ref="char:EOLhyphen"/>fendant to have a farther Imparlance of course. And that no Attorney, Clarke, or any Minis<g ref="char:EOLhyphen"/>ter of this Court, shall hereafter give any common Rule to plead in any cause wherein Imparlances or <hi>Incipiturs</hi> ought to be, and are not entred upon Record in any of the Prothonotaries Remembrances untill the re<g ref="char:EOLhyphen"/>spective Prothonotarie in whose Office the cause is, shall give allowance for the giving of such Rule to plead. And that the Rule of this Court made this present Term, for the prevention of all debates and controver<g ref="char:EOLhyphen"/>sies that may hereafter happen to arise be<g ref="char:EOLhyphen"/>tween the respective Prothonotaries of this Court, concerning Attorneys that have or shall hereafter remove themselves and their Business from one Prothonotarie's Office to another, may be effectual to all intents and purposes. It is farther ordered by this Court this present <hi>Trinity</hi>-Term, by and with
+<pb n="25" facs="tcp:34525:16"/>the consent of the respective Prothonotaries of the same Court, that the said respective Prothonotaries shall permit and suffer each o<g ref="char:EOLhyphen"/>ther respectively by themselves or their re<g ref="char:EOLhyphen"/>spective Clarks to search each others Doggets, and Judgment Books at seasonable and con<g ref="char:EOLhyphen"/>venient times, for the better discovery and prevention of such abuses in the future. And that if it shall hereafter happen that any mat<g ref="char:EOLhyphen"/>ter or Business be henceforward entred in any Prothonotarie's Office contrary to the said or<g ref="char:EOLhyphen"/>der, that then such Prothonotary shall upon notice and request made to him, repay the Fees received for doing of such Business to such Prothonotary to whom such Fees did of right belong. And that no Bill shall be filed against any Officer, Attorney, Clarke, or Minister of this Court to be called in Court, in order to a Fore-judger, untill the said Bill be actually entred upon Record, and a number-Roll put upon the said Bill.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Jo. Vaughan.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Tyrrill.</hi>
+                        </item>
+                        <item>
+                           <hi>Jo. Archer.</hi>
+                        </item>
+                        <item>
+                           <hi>W. Wylde.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="26" facs="tcp:34525:17"/>
+               <head>Pasche <hi>Anno</hi> xxiv. Car. <hi>Secundi Regis.</hi>
+               </head>
+               <head type="sub">An order Conteyning the <hi>Supersedeas-</hi>Office.</head>
+               <p>
+                  <hi>ss.</hi> FOrasmuch as by the information of <hi>Richard Abbot</hi> Gentleman, Officer of the Office aforesaid, the Court is given to un<g ref="char:EOLhyphen"/>derstand and be informed, that divers abuses are frequently committed contrary to the an<g ref="char:EOLhyphen"/>cient use and custom of this Court, in deceipt of the King's Majesty of his Seals, and de<g ref="char:EOLhyphen"/>frauding and deceiving divers Officers there<g ref="char:EOLhyphen"/>of. It is ordered by the Court for preventi<g ref="char:EOLhyphen"/>on of such like frauds, deceipts, and evil car<g ref="char:EOLhyphen"/>riages for the future, that no Under-Sheriff, or County-Clarke, of any County within this Realm. Nor any Attorney or other Minis<g ref="char:EOLhyphen"/>ter of this Court, shall return or cause to be returned upon any Writ of <hi>Exigi Facias</hi> issu<g ref="char:EOLhyphen"/>ing out of, or returnable in this Court any false return of <hi>redidit se,</hi> where in truth the Defendant hath not rendred himself to the Sheriff. And that no Clarke, Attorney, or other Minister of this Court shall enter or cause to be entred any <hi>retraxit</hi> with any Under-Sheriff, County-Clarke, or other Minister aforesaid
+<pb n="27" facs="tcp:34525:17"/>whatsoever, upon any Writ or Writs of <hi>Ex<g ref="char:EOLhyphen"/>igi facias,</hi> issuing out of, and returnable in this Court untill the same <hi>retraxit</hi> be entred upon the same Roll, upon which the said Exigent is awarded of that present Term in which the same is returnable. And that no farther proceeding be in that cause after the praty outlawed by filing a new Original, or by any other means or ways whatsoever to deceive the King's Majesty of his Seals, and the aforesaid Officer of the <hi>Supersedeas</hi>-Office of his just Fees, for making and signing of the Writs of <hi>Supersedeas quia improvide,</hi> to such Writs of Exigent or any other Officers of their just Fees. And that no Under-She<g ref="char:EOLhyphen"/>riff, or County-Clarke aforesaid, or other Minister of the same Court whatsoever, from and after the end of this present Term, shall receive any Writ of <hi>Supersedeas,</hi> or al<g ref="char:EOLhyphen"/>low any such Writ upon his or their Book or Books, file or files, untill the same be du<g ref="char:EOLhyphen"/>ly signed by the proper Officer of the said Office, and also sealed. And lastly, It is or<g ref="char:EOLhyphen"/>dered that no Attorney, or other Minister of this Court, either for Plaintiff or Defendant, shall give or receive any Copy or Copies, of Declarations founded upon any Writ
+<pb n="28" facs="tcp:34525:18"/>of <hi>Exigi facias,</hi> untill the King's Majestie's Writ or <hi>Supersedeas</hi> be duly signed and sealed, and allowed with the Sheriff, Under-Sheriff, or his lawfull Deputy, of the County where the Exigent is laid.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Jo. Vaughan.</hi>
+                        </item>
+                        <item>
+                           <hi>Jo. Archer.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Atkyns.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <head>Pasche <hi>Anno</hi> xxiv. Car. <hi>Secundi Regis,</hi> &amp;c.</head>
+               <p>VVHereas several irregular Attorneys reteyned to appear for Defendants, have contrary to the Law and usage of this Court neglected to enter appearances for such Defendants, to the delay of Plaintiffs, damage of Defendants, abuse of this Court and to the defrauding the King's Majesty of the duty of Six-pence, for every appearance given by a late Act of Parliament, entituled an Act for
+<pb n="29" facs="tcp:34525:18"/>laying impositions upon proceedings in Law. For remedy whereof, it is ordered by the Justices of this Court in this present <hi>Easter</hi>-Term. That every Attorney reteyned to ap<g ref="char:EOLhyphen"/>pear for any Defendant to any Writ issuing out of this Court, which are made by the re<g ref="char:EOLhyphen"/>spective Filacers of this Court, shall from henceforth according to the course of this Court, enter the appearances of all Defendants with the proper Filacer of this Court, of the City or County from whom such process re<g ref="char:EOLhyphen"/>spectively did issue where the Action is laid, and pay the said duty of Six-pence unto his Majesty to the said Filacer, together with the said Filacer's Fee upon the penalties in the said Act of Parliament mentioned. And it is far<g ref="char:EOLhyphen"/>ther ordered that no Defendant shall be per<g ref="char:EOLhyphen"/>mitted to imparle, amend his plea or move to change the venue in any Action untill his appearance be entred as aforesaid. And that no Attorney of this Court shall receive any Declaration unless an appearance be first en<g ref="char:EOLhyphen"/>tred with the Filacer as aforesaid under the like penalty. And that no Attorney shall de<g ref="char:EOLhyphen"/>liver or cause to be delivered any Declaration or count to the Defendant or Tenants Attor<g ref="char:EOLhyphen"/>ney, or to any person for him untill the ap<g ref="char:EOLhyphen"/>pearance
+<pb n="30" facs="tcp:34525:19"/>(to warrant such delivery) be duly entred with the proper Filacer, under the penalty to be expelled the Court. And it is farther ordered for the better discovering and punishing of offenders against this order. That the respective Filacers of this Court may at all convenient times freely peruse the Doggets and other memorials of the Protho<g ref="char:EOLhyphen"/>notaries respectively of this Court, to the end that in every Term they may deliver in wri<g ref="char:EOLhyphen"/>ting the names of all Attorneys of this Court, who shall not have entred the appearances of such Defendants who employ them with the proper Filacer of the Court, to the Lord Cheif Justice of this Court, or his Brethren (which they are hereby required diligently to doe,) to the end the said Justices may without remis<g ref="char:EOLhyphen"/>ness proceed against such as shall be found offenders against this order.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Jo. Vaughan.</hi>
+                        </item>
+                        <item>
+                           <hi>Jo. Archer.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Atkyns.</hi>
+                        </item>
+                        <item>
+                           <hi>W. Wylde.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="31" facs="tcp:34525:19"/>
+               <head>Pasche <hi>Anno</hi> xxvii. Car. <hi>Secundi Regis.</hi>
+               </head>
+               <head type="sub">An order conteyning the delivering of Copies of special Verdicts and Demurrers unto the Justi<g ref="char:EOLhyphen"/>ces of this Court, in all causes entred into the Court Books for argument at the Bar.</head>
+               <p>IT is ordered by the Court, That every Attorney of this Court towards any such cause, shall deliver true Copies of the Records thereof to the respective Justices of this Court, by the space of one whole week at the least next before the day appointed for such Ar<g ref="char:EOLhyphen"/>gument. Namely, The Attorney for the Plaintiff one Copy thereof to the Lord Cheif Justice, and another to the Senior Judge. And the Attorney for the Defendant, like Copies to each of the other two Justices of this Court for the time being, according to the ancient course here used under such penalty as the Court shall think fit to inflict upon the At<g ref="char:EOLhyphen"/>torney neglecting his duty therein. And it is farther ordered by the Court, That no
+<pb n="32" facs="tcp:34525:20"/>Argument by Council on either side shall be heard at the Bar untill Books be delivered to all the Judges. Provided nevertheless. That in case the Attorney of either party shall not deliver Books as he ought. Then if the At<g ref="char:EOLhyphen"/>torney on the other side for expediting his Clients cause will deliver Books to all the Judges, three days at least before the Argu<g ref="char:EOLhyphen"/>ment, Council shall be heard on his Clients behalf at the day appointed. And the Attor<g ref="char:EOLhyphen"/>ney delivering Books as aforesaid shall be im<g ref="char:EOLhyphen"/>bursed the charges of delivering the two Books which ought to have been delivered by the Attorney of the Adverse party, which char<g ref="char:EOLhyphen"/>ges the said Attorney shall be bound to pay upon demand thereof. And lastly, it is or<g ref="char:EOLhyphen"/>dered, That if the charges of delivering the said two Books shall not be paid before Judg<g ref="char:EOLhyphen"/>ment shall be given in the cause, The char<g ref="char:EOLhyphen"/>ges of the delivering the said Books shall be allowed upon taxing costs. And in that case the Attorney shall not be compelled to pay the said costs. But if no costs are to be tax<g ref="char:EOLhyphen"/>ed in the case, Then the Attorney making default in delivering of Books as aforesaid, shall be compelled to pay the charges of the Copies so delivered by the Attorney of the
+<pb n="33" facs="tcp:34525:20"/>adverse party, by Attachment or otherwise as the Court shall think fit.</p>
+               <closer>
+                  <signed>By the Court.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <head>Trin. <hi>Anno</hi> xxviii. Car. <hi>Secundi Regis,</hi> &amp;c.</head>
+               <head type="sub">A Rule concerning allowances of Writs of Error, and Nonsuits upon them.</head>
+               <p>FOrasmuch as information is given to the Lord Chief Justice of the Court of <hi>Common-Pleas,</hi> that several At<g ref="char:EOLhyphen"/>torneys of the said Court, do make out execution upon Judgments, whereupon Writs of Error are brought, with<g ref="char:EOLhyphen"/>out giving of Rules, or signing <hi>Non-prosess</hi> with the Clarke of the Errors, (to whom the same particularly belongs,) and do sue out Writs of Error, and shew the same to the Plain<g ref="char:EOLhyphen"/>tiffs Attorney in the Action, without bringing them to the Clarke of the Errors, or putting in of Bail before the Lord Chief Justice of the said Court, according to the several Statutes in that case made. For preventing of which irre<g ref="char:EOLhyphen"/>gular practices, it is ordered by the Lord Chief Justice of the said Court, that for the future no Attorney of the said Court, do or shall make out any Executions, <hi>non obstante Brevi de Errore,</hi> untill they have had a Certificate from the Clarke of the ERrors, that the Record is not removed, and a <hi>Non-profess</hi> thereupon duely signed, and that all Attorneys, do forthwith bring their Writs of Error by them sued out to the Clarke of the Errors, to be allowed according to the ancient practice of the Court, or in default thereof, the Plaintiffs Attorney in the Action, is and may be at liberty to proceed to Execu<g ref="char:EOLhyphen"/>tion.</p>
+               <closer>
+                  <signed>Era. North.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="order">
+               <pb n="34" facs="tcp:34525:21"/>
+               <head>Sancti <hi>Michaelis</hi> Anno <hi>xxviii. Car.</hi> Secundi, <hi>&amp;c.</hi>s</head>
+               <p>
+                  <hi>ORdinatum est quod omnia brevia de Errore indilate deliberentur Clerico Errorum pro tempore existen' Quodque nemo tenebitur abstinere à prosecutione executionis pretextu alicujus brevis de Errore priusquam predictum breve deliberatur Clerico Errorum &amp; in casibus ubi speciale Ballium requiritur. Nisi quoerens super tali brevi de Erro<g ref="char:EOLhyphen"/>re infra quaturor dies post deliberationem inde imponet Bal<g ref="char:EOLhyphen"/>lium secundum legem. Et obtinebit breve de Supersedeas superinde defendens poterit procedere ad executionem non obstante tali brevi de Errore. Et ulterius ordinat' est quod post breve de Errore debito modo allocat' &amp; Supersedeas superinde obtent' nulla fiet Executio pro non transcribend' Record' in Bancum Regis sive Certificatione in scriptis per Clericum Errorum quod quoerens in tali brevi de Errore fecit defalt' in transcribend' Record' in Bancum Regis juxta Regulam Curiae prius de cursu dand'.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Fra. North.</item>
+                        <item>Hugh Wyndham.</item>
+                        <item>Rob. Atkyns.</item>
+                        <item>Will Scroggs.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <head>Hil. <hi>Annis</hi> xxviii. &amp; xxix. Car. <hi>Secundi Regis.</hi>
+               </head>
+               <p>WHereas several cautionary Rules have been, and are usually made by this Court, and directed to be left with the Officers, <hi>viz.</hi> the <hi>Custos brevium,</hi> Clarke of the Kingssilver and Chirographer, for the staying of Fines suggested to have been acknowledg<g ref="char:EOLhyphen"/>ed
+<pb n="35" facs="tcp:34525:21"/>by Infants, or Feme-coverts without the consent of their Husbands, or persons of <hi>non sane memorie,</hi> or otherwise disabled in Law to acknowledge the same, which Rules being nu<g ref="char:EOLhyphen"/>merous, and the persons concerned therein being negligent in the renewing and continu<g ref="char:EOLhyphen"/>ing thereof as they ought to doe every Term, and in length of time the parties disabled as a<g ref="char:EOLhyphen"/>foresaid by Marriage or otherwise, having changed their names. It becomes impossible for the said Officers duely to observe the said Rules incumbenton them for staying such Fines. It is therefore ordered that all Rules heretofore made for the staying any Fine or Fines upon any such or the like suggestion or occasion as aforesaid, shall be renewed or con<g ref="char:EOLhyphen"/>tinued, and Copies thereof left with the said respective Officers before the end of <hi>Easter</hi>-Term next, or otherwise that the same be no way obligatory upon the said Officers or any of them. And that for the future all persons making any complaint against such Fines ac<g ref="char:EOLhyphen"/>knowledged by persons so disabled as afore<g ref="char:EOLhyphen"/>said, or by any person in the name of another, or by the like deceipt, shall from Term to Term so long as they expect benefit or ob<g ref="char:EOLhyphen"/>servance of such Rule, enter and continue the
+<pb n="36" facs="tcp:34525:22"/>same rule for that Term, or leave Copies thereof with the said respective Officers, and that the same may thereby be the better taken notice of, or in default thereof, the said Of<g ref="char:EOLhyphen"/>ficers or any of them shall not stand farther obliged thereby. And all persons concerned in the obtaining or prosecuting such rules, for the staying such Fines so levied as afore<g ref="char:EOLhyphen"/>said, their Attorneys or Clarkes are hereby enjoyned every Term to search and see the Books and Entrie of Fines with the Clarke of the Kingssilver, or other Officers where En<g ref="char:EOLhyphen"/>tries are kept for that purpose. In as much as it is not possible for the Officers to take that care for the stoping of such Fines and Recoveries as by order of Court they shall be enjoyned to stop by reason of the multiplicity of old orders which are never recalled so, that they cannot know which orders are in force. It is therefore ordered that for the future, all manner of <hi>Caveats</hi> and orders for the stoping Fines and Recoveries to be renewed every Term or else to lose their force.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Fra. North.</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Wyndham.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Atkins.</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Scroggs.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="37" facs="tcp:34525:22"/>
+               <head>Pasche <hi>Anno Regni Regis</hi> Car. <hi>Secundi,</hi> xxix.</head>
+               <p>FOrasmuch as it hath been represented to this Court, by the Clarke of the Kings<g ref="char:EOLhyphen"/>silver of this Court, that it is not possible for him to take care for the stoping of such Fines, as by order of Court he is enjoyned to stop by reason of the multitude of old orders con<g ref="char:EOLhyphen"/>cerning this matter, which have been granted and never recalled, so that he cannot know which orders stand in force, and which are determined. It is therefore ordered that for the future, all manner of <hi>Caveats</hi> and orders for the stoping any Fines, shall be renewed every Term, and Copies thereof left with the Clarke of the Kingssilver, for which he is to demand onely his ancient Fee of 3 <hi>s.</hi> and 4 <hi>d.</hi> the Term as aforesaid, and in default thereof, all <hi>Caveats</hi> that shall not be so renewed shall lose their force and be void.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Fra. North.</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Wyndham.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Atkins.</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Scroggs.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="38" facs="tcp:34525:23"/>
+               <head>Sanctae <hi>Trinitatis</hi> Anno <hi>xxix. Car.</hi> Secundi Regis.</head>
+               <p>WHereas divers complaints have been made to this Court, of the mani<g ref="char:EOLhyphen"/>fold inconveniences and mischeifs that daily happen, for that many of the Officers and Attorneys of the said Court, having pub<g ref="char:EOLhyphen"/>lick and considerable employments in the Law, are not admitted of any of the Inns of Court or Chancery, where if they were, they might be better known and more readily resorted to, and the better manage their Af<g ref="char:EOLhyphen"/>fairs, but lodge and keep their Offices in pla<g ref="char:EOLhyphen"/>ces obscure and remote from the said Inns of Court and Chancery contrary to the ancient course and usage, and to the great damage of the King's People through surprizes hap<g ref="char:EOLhyphen"/>ning, and advantages thence taken and in<g ref="char:EOLhyphen"/>sisted upon, for prevention of which in time to come, it is ordered by the Justices of this Court, that all Attorneys already admitted of this Court, (except such as dwell in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> or <hi>Westminster,</hi> and the Suburbs thereof, or in the Burrough of <hi>Southwarke,</hi> and the
+<pb n="39" facs="tcp:34525:23"/>Liberty of St. <hi>Katherine</hi> near the <hi>Tower</hi> of <hi>London,</hi>) shall be admitted of some of the Inns of Court or Chancery before the end of <hi>Mi<g ref="char:EOLhyphen"/>chaelmas</hi>-Term next coming, and take Cham<g ref="char:EOLhyphen"/>bers there if conveniently they may be done, else that they take Chambers or Lodings in some convenient places near the said Inns, and leave word with the Butlers of such Inns where their Chambers or Habitations are, upon pain of being put out of the Roll of At<g ref="char:EOLhyphen"/>torneys. And that no person whatsoever (except as is above excepted,) shall hereafter be Sworn an Attorney of this Court, unless he be first admitted of some of the Inns afore<g ref="char:EOLhyphen"/>said, and bring and produce in Court at the time of his being Sworn a Certificate under the hand of the Treasurer or Principal of the said Inn whereof he is admitted, testifying his Admission, which Certificate every Attorney so Swo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> shall deliver to the Clarke of the Warrants of this Court for the time being, to be by him filed, before such Attorney's name shall be entred into the Roll of Attor<g ref="char:EOLhyphen"/>neys of this said Court, remaining with the said Clarke of the Warrants, unto which file of Certificates the Treasurers and Principals afore<g ref="char:EOLhyphen"/>said, may from time to time resort as they shall see cause.</p>
+            </div>
+            <div type="order">
+               <pb n="40" facs="tcp:34525:24"/>
+               <head>Sanctae <hi>Trinitatis</hi> Anno <hi>xxix. Car.</hi> Secundi Regis, <hi>&amp;c.</hi>
+               </head>
+               <p>IT is ordered by this Court, that the re<g ref="char:EOLhyphen"/>spective Prothonotary do take care that every Record of <hi>Nisi prius</hi> that is signed by them be ingrossed in a fair legible Cha<g ref="char:EOLhyphen"/>racter, and so entred on the Roll, and that at the beginning of every Pleading, it be be<g ref="char:EOLhyphen"/>gun with a new line, and the first word there<g ref="char:EOLhyphen"/>of in a greater Character than the rest. And that in all actions that have divers Narrs, they give notice thereof by Figures in the Margent of such Record of <hi>Nisi prius.</hi> And in default thereof the said Prothonotary sign not the same. And it is likewise ordered that Mr. <hi>Ingram</hi> that doth sign, and the respective Clarkes of the Treasury of this Court that do ingross Records of <hi>Nisi prius,</hi> from thence do from time to time take the same care of all Records made out of the said Treasury. And that all Records of <hi>Nisi prius,</hi> that shall be ingrossed in this Court for the future, be
+<pb n="41" facs="tcp:34525:24"/>of exact breadth of the Rolls of this Court, and not broader or lesser.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Fra. North.</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Wyndham.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Atkyns.</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Scroggs.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <head>Sanctae <hi>Trinitatis</hi> Anno <hi>xxix. Car</hi> Secundi Regis, <hi>&amp;c.</hi>
+               </head>
+               <p>WHereas divers complaints have been made to this Court, of the mani<g ref="char:EOLhyphen"/>fold inconveniences and mischeifes that daily happen, for that many of the Officers and Attorneys of the said Court, having publick and considerable employments in the Law, and are not admitted of any of the Inns of Court or Chancery, where if they were, they might be better known and more readily re<g ref="char:EOLhyphen"/>sorted to, and the better manage their af<g ref="char:EOLhyphen"/>fairs, but lodge and keep their Offices in places obscure and remote from the said Inns
+<pb n="42" facs="tcp:34525:25"/>of Court and Chancery, contrary to the an<g ref="char:EOLhyphen"/>cient course and usage, and to the great damage of the King's people through surprize hapning, and advantages thence taken and insisted upon: For the prevention of which in time to come, it is ordered by the Justices of this Court, that all Attorneys already ad<g ref="char:EOLhyphen"/>mitted of this Court, (except such as dwell in <hi>London</hi> and <hi>Westminster,</hi> and the Suburbs thereof, or in the Burrough of <hi>Southwarke,</hi> and the Liberty of St. <hi>Katherine</hi> near the Tower of <hi>London,</hi>) shall be admitted of some of the Inns of Court or Chancery before the end of <hi>Michaelmas</hi>-Term next coming, and take Chambers there if conveniently that may be done, else that they take Chambers or Lodgings in some convenient places near the said Inns, and leave word with the Bur<g ref="char:EOLhyphen"/>lers of such Inns where their Chambers or Habitations are, upon pain of being put out of the Rolls of Attorneys; and that no per<g ref="char:EOLhyphen"/>son whatsoever (except as is above excepted,) shall hereafter be Sworn an Attorney of this Court, unless he be first admitted of some of the Inns aforesaid, and bring and produce in Court at the time of his being Sworn, a Certificate under the hands of the Treasurer,
+<pb n="43" facs="tcp:34525:25"/>or Principal of the said Inne whereof he is admitted, testifying his admission, which Certificate every Attorney so Sworn shall de<g ref="char:EOLhyphen"/>liver to the Clarke of the Warrants of the Court for the time being, to be by him filed before such Attorney's name shall be en<g ref="char:EOLhyphen"/>tred into the Roll of Attorneys of the said Court, remayning with the said Clarke of the Warrants, unto which File of Certificates the Treasurers and Principals aforesaid may from time to time resort as they shall see cause.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Fra. North.</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Wyndham.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Atkyns.</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Scroggs.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <head>Sanctae <hi>Trinitatis,</hi> Anno <hi>xxix. Car.</hi> Secundi Regis, <hi>&amp;c.</hi>
+               </head>
+               <p>VVHereas complaints have been made to this Court, that divers persons have sued out Writs of privilege and Attachments at their own Suits as At<g ref="char:EOLhyphen"/>torneys
+<pb n="44" facs="tcp:34525:26"/>of this Court, who have either dis<g ref="char:EOLhyphen"/>continued or had their names put out of the Roll of Attorneys, remayning with the Clarke of the Warrants of this Court, or were never entred upon the Roll, and yet have prosecuted such Writs so as to free themselves from Arrests, or to force Bayle where none ought to be given, for the prevention of which abuses, it is ordered that the Clarke of the Warrants at the end of this and every other Term, shall certify under his hand to the Seal-Office of this Court, the names of all those Attorneys that have discontinued and that are forejudged the Court, and put out of the Roll, and have not filed any Warrant of Attorney, nor con<g ref="char:EOLhyphen"/>tinued their names upon the Roll for above four Terms past, and that hereupon for such persons no Writ of Privilege or Attach<g ref="char:EOLhyphen"/>ment be sealed, untill they have a Certifi<g ref="char:EOLhyphen"/>cate from the said Clarke of the Warrants, or have their said Writs by him signed, to testify that their names are upon the Roll of Attorneys, for which no Fee is to be paid. And it is farther ordered, that no At<g ref="char:EOLhyphen"/>torney at any time Sworn and entred upon the Roll, shall have his privilege as a Clarke
+<pb n="45" facs="tcp:34525:26"/>to any Prothonotary of this Court, but onely as Attorney according to the ancient custom.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Fra. North.</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Wyndham.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Atkyns.</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Scroggs.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="order">
+               <head>Sanctae <hi>Trinitatis</hi> Anno xxix. <hi>Car.</hi> Secundi Regi.</head>
+               <p>ss. <hi>DEcimo sexto</hi> Junii <hi>pro melicri reformatione &amp; preventione multarum inconvenien<g ref="char:EOLhyphen"/>ciarum ratione negligent' &amp; dilationum diverso<g ref="char:EOLhyphen"/>rum ATtorn' hujus Cur' subdit' Dom' Regis nunc contingen' in non prosecutione Record' pre<g ref="char:EOLhyphen"/>dict' pro triationibus exit' ad Assisas infra tempus opportunum post clausum Termini prox' precedend' hujusmodi Assisas contra antiquum usum &amp; cur<g ref="char:EOLhyphen"/>sum hujus Cur' Ordinat' est quod omnid recorda predicta extra Cur' hic emanan' erunt signat' per respectivos Prothonotar' dict' Cur' signat' &amp; sigil<g ref="char:EOLhyphen"/>lat'
+<pb n="46" facs="tcp:34525:27"/>per Clericum Thesaurar' vel al' personam in ea parte deputat' infra spatium trium septimanarum prox' post finem hujus Termini Et infra idem spati<g ref="char:EOLhyphen"/>um prox' post clausum cujuslibet Termini Sancti Hillarii &amp; cujuslibet Termini Sanctae Trinitatis in futurum Et non postea Nisi pro rationabili causa special' Warrant' proinde obtentum fuit.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>per Curiam.</hi>
+                     <list>
+                        <item>Fra. North.</item>
+                        <item>Hugh Wyndham</item>
+                        <item>Rob. Atkyns.</item>
+                        <item>Will. Scroggs.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <head>Sanctae <hi>Trinitatis</hi> Anno <hi>xxix. Car.</hi> Secundi.</head>
+               <head type="sub">A Rule for the better observation of a late Act of Parliament, made concerning Judgments.</head>
+               <p>VVHereas by an Act of this present Parliament, it is enacted, that from and after the four and twentieth day of <hi>June</hi> next, every Judge or Officer of this
+<pb n="47" facs="tcp:34525:27"/>Court, that shall sign any Judgment, shall at the signing of the same, (without Fee for doing the same,) set down the day of the Month and Year of his so doing, upon the paper Book which he shall so sign, the which day of the Month and Year, shall be also entred upon the Margent of the Roll of the Record, where such Judgment shall be entred. Now to the end the same may be duely and justly done, in pursuance of the said Act, it is ordered by this Court, that the respective Attorneys, and Clarkes of this Court, that shall procure any Judgment to be so signed as aforesaid, (after the said xxiv. day of <hi>June,</hi>) shall at the bringing in of their Rolls to the respective Prothonotary, at the same time where such Judgments are entred, produce the respective paper Books whereon such Judgments are signed, that so the respective Prothonotary may better ex<g ref="char:EOLhyphen"/>amine the respective days, entred on the Margent of the Roll of each particular Judg<g ref="char:EOLhyphen"/>ment, that they do agree with the respective days, signed by such Prothonotary on the respective paper Books. And to the end that the said respective Prothonoraries may the better perform their duty herein, it is far<g ref="char:EOLhyphen"/>ther
+<pb n="48" facs="tcp:34525:28"/>ordered by this Court, that every At<g ref="char:EOLhyphen"/>torney and Clarke, that shall make such en<g ref="char:EOLhyphen"/>tries, shall bring in their respective Rolls, to the respective Prothonotaries in manner and form following, that is to say, the Rolls of every <hi>Trinity</hi>-Term in every Year, at or be<g ref="char:EOLhyphen"/>fore the Feast day of St. <hi>Michael</hi> the <hi>Archangel,</hi> then next following, and the respective Rolls of every <hi>Michaelmas</hi>-Term, in every year at or before the Feast day of St. <hi>Thomas</hi> the <hi>Apostle</hi> then next likewise following, and also the respective Rolls of every <hi>Hillary</hi>-Term in every year, at or before the Feast day of the <hi>Annuntiation</hi> of our <hi>Lady</hi> the <hi>Virgin,</hi> then next likewise following, and also the re<g ref="char:EOLhyphen"/>spective Rolls of every <hi>Easter</hi>-Term in every year, at or before the first day of every <hi>Tri<g ref="char:EOLhyphen"/>nity</hi>-Term in every year, then next likewise following, under such pains and punishments upon every default made by any Attorney or Clarke of this Court, as this Court shall think fit to inflict on such defaulters. And it is farther ordered that upon the signing of all Judgments, by the respective Prothonotaries of this Court, upon <hi>Postea</hi> Writs of <hi>Inquiry,</hi> special <hi>Verdicts, Demurrers, Nultiel Records, Relicta Verificatione,</hi> and such like Judgments,
+<pb n="49" facs="tcp:34525:28"/>the same shall be delivered over forthwith, after such signing to the respective Clarkes of the Judgments in each Office, that so the respective dayes, being the time when such Judgments are signed, may be drawn up in the respective Judgment Papers in each Pro<g ref="char:EOLhyphen"/>thonotarie's Office, that so the same may be entred on the Margent of the Roll of every such Record, where such Judgment is en<g ref="char:EOLhyphen"/>tred. And it is farther ordered, that the re<g ref="char:EOLhyphen"/>spective Prothonotary shall not sign any Judgment by such confession, either by <hi>non sum inform' or nihil Dic'</hi> unless the same be brought to be signed within xx. days af<g ref="char:EOLhyphen"/>ter the respective ends of every <hi>Trinity, Mi<g ref="char:EOLhyphen"/>chaelmas,</hi> or <hi>Hillary</hi>-Terms in every year re<g ref="char:EOLhyphen"/>spectively, and at or before the first day of every <hi>Trinity</hi>-Term in every year, unless such Attorney or Clark do produce before such Prothonotary a Warrant, or Warrants of At<g ref="char:EOLhyphen"/>torney, that do bear date after the end of any such Term, and then such Judgments on such Warrants so produced, may be signed at or before the Essoyn day of every succeeding Term in every year, and not after.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Fran. North.</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Wyndham.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Atkyns.</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Scroggs.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="50" facs="tcp:34525:29"/>
+               <head>Sancti <hi>Michaelis</hi> Anno <hi>xxix. Car.</hi> Secundi, <hi>&amp;c.</hi>
+               </head>
+               <p>THrough the great complaints that have been made to this Court, of the neg<g ref="char:EOLhyphen"/>lects of Attorneys and Clarkes, to file the Writs and Warrants of Attorneys, where<g ref="char:EOLhyphen"/>upon common Recoveries have been suffe<g ref="char:EOLhyphen"/>red, and of the mischeifs that have thereupon hapned. And for the prevention of such mischeifs and dangers in time to come, it is ordered as well by the consent of the <hi>Custos Brevium,</hi> as of the Prothonotaries, and Clarke of the Warrants of this Court, that at all times hereafter when the said Prothonotaries shall examine, and sign the exemplifications of such Recoveries, they in their respective Offices do then cause all the same Writs, be<g ref="char:EOLhyphen"/>ing sealed and duely returned, and all War<g ref="char:EOLhyphen"/>rants of Attorney thereupon taken without Writ to be left in their hands to be filed with the usual Fees for filing the same, without
+<pb n="51" facs="tcp:34525:29"/>
+                  <hi>post Terminums.</hi> And that the said <hi>Custos Bre<g ref="char:EOLhyphen"/>vium</hi> and Clarke of the Warrants, or their known Deputies, shall receive from the said Prothonotaries in their respective Offices, the said Writs and Warrants of Attorney, with the said Fees for filing thereof in manner following, to wit, for the said Writs and Warrants profecuted and perfected of this present Term, and every other Term of St. <hi>Michael</hi> in <hi>Easter</hi>-Term then next following, and for the said Writs and Warrants of At<g ref="char:EOLhyphen"/>torney, of every <hi>Hillary</hi>-Term in <hi>Trinity</hi>-Term next after, and for the said Writs and Warrants of Attorney, of every <hi>Easter</hi>-Term, in <hi>Michaelmas</hi>-Term next after, and for the said Writs and Warrants of Attorney of eve<g ref="char:EOLhyphen"/>ry <hi>Trinity</hi>-Term, in <hi>Hillary</hi>-Term then next following. And that the said <hi>Custos Brevium,</hi> and Clarke of the Warrants, or their said Deputies, shall give receipts under their hand of all such Writs and Warrants, as shall be from time to time received from each of the said Prothonotaries by way of Duplicate, conteyning the County where the Lands be, the names of the Demandants, Tenants, and Vouchees, who come in by Writs of Summons. And also of the Attorneys and
+<pb n="52" facs="tcp:34525:30"/>Clarkes names, who prosecuted the said Re<g ref="char:EOLhyphen"/>coveries.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Fra. North.</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Wyndham.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Atkyns.</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Scroggs.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="order">
+               <head>Pasche <hi>Anno</hi> xxx. Car. <hi>Secundi.</hi>
+               </head>
+               <p>ss. <hi>VIcesimo quinto</hi> Aprilis, <hi>Cum nuper scilicet' Termino Sancti</hi> Michaelis <hi>ult' praeterito pro evitatione errorum saepissime con<g ref="char:EOLhyphen"/>tingen' per negligentiam Attorn' &amp; Clericorum Curiae hic in defectu debite prosecutionis &amp; filati<g ref="char:EOLhyphen"/>onis brevium de Ingressu Sum' Sesein' &amp; Warrant' Attorn' super quibus coia' Recuperar' extitissent permissa Ordinat' fuisset per Cur' ex assensu Custod' brevium Prothonotariorum &amp; Clerici War<g ref="char:EOLhyphen"/>rant' hujus Cur' quod quandocunque Prothono<g ref="char:EOLhyphen"/>tarior' predicti in eorum Officiis respective ex<g ref="char:EOLhyphen"/>aminarent &amp; signarent aliquod Recuperar' per Curiam hic exemplificat' iidem Prothonotarii
+<pb n="53" facs="tcp:34525:30"/>viderent quod Brevia &amp; Warrant' predict' debite execut' &amp; retornat' &amp; in eorum Prothonota<g ref="char:EOLhyphen"/>riorum manibus respective relict' essent cum usual' feodis pro affilatione eorund' Jam ex querela</hi> Willielmi Jones <hi>Militis Attorn' Dom' Regis gene<g ref="char:EOLhyphen"/>ralis Justic' Cur' hic fact quod quidam Attorn' &amp; Clerici ejusdem Cur' brevia sua de Ingressu per ipsum Attorn' generalem sub manu sua signand' ut officio suo pertinen' juxta Antiquum Cursum inferre neglex issent in defraudatione ipsius Attorn' general' de feodis suis in ea parte. Or<g ref="char:EOLhyphen"/>dinat' est quod Prothonotar' predict' de fu<g ref="char:EOLhyphen"/>turo super examinatione &amp; sign' Cleric' Recupe<g ref="char:EOLhyphen"/>rar' Curiam videant quod quodlibet' tale breve de ingressu signat' sit per dict' Attorn' generalem Alit' iidem Prothonotarii ad signand' tales exemplificationes &amp; sign' totaliter abstineant quo<g ref="char:EOLhyphen"/>usque breve inde ita signat' fuit' Et dict' Attorn' general' desideratur quod ipse brevia predicta pro manu sua habend' sibi delibat' sine dilatione signare voluit.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Fran. North.</item>
+                        <item>Hugh Wyndham.</item>
+                        <item>Rob. Atkyns.</item>
+                        <item>Will. Scroggs.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="order">
+               <pb n="54" facs="tcp:34525:31"/>
+               <head>Trin. <hi>Anno</hi> xxxii. Car. <hi>Secundi Regis.</hi>
+               </head>
+               <head type="sub">Regula generalis quoad Narrationes in ejecti<g ref="char:EOLhyphen"/>one firme in <hi>London</hi> &amp; in Com' <hi>Midd.</hi>
+               </head>
+               <p>ss. <hi>VIcesimo primo</hi> Junii <hi>Ordinat' est quod Queren' vel eor' Attorn' sive partes quae delibari' fac' Narrationes in placito predicto in dict' Com'</hi> Midd. <hi>&amp;</hi> London, <hi>super tali deliberatione inde denunciabunt tenen' in possessi<g ref="char:EOLhyphen"/>one tentor' in questione respective quod ipsi compa<g ref="char:EOLhyphen"/>reant per Attorn' Cur' hic in defensione tituli inde initio prox' Termini prox' post diberation' Narr' ill fact' Et ulterius Ordinat'est quod queren' predicti de cetero nil capient per Motionem in Cur' hic fiend' ad judicium versus casualem ejectorem pro defectu comperencie habend. Nisi hujusmodi motio fiat in<g ref="char:EOLhyphen"/>fra unam septimanam prox' post primum diem cu<g ref="char:EOLhyphen"/>juslibet Termini sancti</hi> Mich. <hi>Et cujuslibet Termini</hi> Pasche. <hi>Et infra quatuor dies prox' post primum diem cujuslibet Termini sancti</hi> Hil. <hi>&amp; cujuslibet Termini sanctae</hi> Trin.</p>
+               <closer>
+                  <signed>per Cur'</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="order">
+               <pb n="55" facs="tcp:34525:31"/>
+               <head>Trin. <hi>Anno</hi> xxxiii. Car. <hi>Secundi Regis.</hi>
+               </head>
+               <head type="sub">Generalis regula pro Custagiis super prosecu<g ref="char:EOLhyphen"/>tione ad utlagar'</head>
+               <p>ss. <hi>VIcesimo secundo</hi> Junii <hi>Ordinat' est quod nullus Defendens qui in vel post mensem Sancti</hi> Mich. <hi>prox' futur' utlagat' fuit. Ac qui comperebit &amp; utlagar' reversari faciat super re<g ref="char:EOLhyphen"/>versatione ill' solvet pro custag' queren' aliquam denarior' Summam exceden' usual' custagia de Exigend' in ista Cur' una cum sine Domino Regi super brevi originali si quis solut' fuit. Et quod omnia ulteriora Custagia respectuant' usque tem<g ref="char:EOLhyphen"/>pus signandi Judicium pro Queren'. Et ulterius Ordinat' est quod quilibet Defendens sic utlagat' &amp; utlagar' illam reversari saciens si Querens super inde non processit infra duos Terminos prox' post noticiam reversationis inde, habebit Custagia per Prothonotarium taxand.</hi>
+               </p>
+               <closer>
+                  <signed>per Curiam.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="order">
+               <pb n="56" facs="tcp:34525:32"/>
+               <head>Pasch. <hi>Anno</hi> xxxiv. Car. <hi>Secundi Regis.</hi>
+               </head>
+               <head type="sub">Regula generalis de Statuto penali.</head>
+               <p>ss. <hi>Sexto</hi> Maii <hi>Ordinat' est quod quandocun<g ref="char:EOLhyphen"/>que actio per aliquem qui tam &amp;c. pro Domino Rege super aliquo statuto penali prosecut' &amp; triata fuit Et ubi veredictum pro Domino Rege reddit' fuit le postea primo die prox' Ter<g ref="char:EOLhyphen"/>mini prox' post veredictum praed' sic reddit' per Clericum Assisar' retornat' deliberetur in hanc Cur' ad manus Prothonotarii in cujus Officio causa existit &amp; minime parti prosequend' Et quod judicium super inde intretur de Recordo ita quod pars illa penalitat' quae Domino Regi per<g ref="char:EOLhyphen"/>tinet debite levari possit. Et ulterius Ordinat' est quod cum judicium intrat' fuit de Recordo Nota sive Praecipe Recordi illius cum Numero Rotuli in<g ref="char:EOLhyphen"/>de deliberetur per Clericum Judicior' Clerico Warrant' hujus Cur' ut summa sive sinis ille Do<g ref="char:EOLhyphen"/>mino Regi sic pertinens per ipsum Clericum War<g ref="char:EOLhyphen"/>rant' inter al' in Sum' dicti Domini Regis de<g ref="char:EOLhyphen"/>bite extrahatur Quodque idem Clericus Warrant' pro receptione talis Notae sive Praecipe manum suam apponet ad papirum Clerici Judicior' pro Judicio pred' intrand.</hi>
+               </p>
+               <closer>
+                  <signed>per Curiam.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="order">
+               <pb n="57" facs="tcp:34525:32"/>
+               <head>Pasch. <hi>Anno</hi> xxxiv. Car. <hi>Secundi Regis.</hi>
+               </head>
+               <head type="sub">Regula pro manu Attorn' general' ad Bre<g ref="char:EOLhyphen"/>via de Ingressu habend'.</head>
+               <p>ss. <hi>DEcimo tertio</hi> Maii <hi>Super querimonia</hi> Ro<g ref="char:EOLhyphen"/>berti Sawyer <hi>Militis Attorn' Domini Regis generalis Justic' Cur' hic fact' quod quam plurima Brevia de Ingressu in le post quae per ipsum ut Attorn' general' sub manu sua signari debe<g ref="char:EOLhyphen"/>ant per diversos Attorn' &amp; Clericos hujus Cur' adhuc prosecut' sunt. Et sine manu ipsius Attorn' generalis prius habit' affilantur in defraudatione ejusdem Attorn' de feod' suis &amp; contra regu<g ref="char:EOLhyphen"/>lam Cur' hic in ea parte fact' Ordinat' est quod Prothonotar' hujus Cur' curam habeant, &amp; qui<g ref="char:EOLhyphen"/>libet eorum in Officio suo respective videat cum examinavit aliquod Recuperar' per Breve de Ingressu pred' quod Breve illud per pred' At<g ref="char:EOLhyphen"/>torn' generalem sub manu sua signetur Quodque Prothonotarius nullum tale Breve ad affiland' re<g ref="char:EOLhyphen"/>cipiet Nisi per pred' Attorn' ita signat' fuit.</hi>
+               </p>
+               <closer>
+                  <signed>per Curiam.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="58" facs="tcp:34525:33"/>
+               <head>Pasch. <hi>Anno</hi> xxxiv. Car. <hi>Secundi Regis.</hi>
+               </head>
+               <p>THe Justices of this Court taking notice, and considering the great mischiefs which may and do happen, by reason that several Attorneys and Clarkes of this Court, to whom the Prothonotaries of this Court have delivered Rolls, have not in due time brought them back to be filed, whereby they have been in danger to be lost, and sub<g ref="char:EOLhyphen"/>ject to have Judgments unduely entred upon them, to the great damage of Purchasors, and scandal of the Court; for prevention of which mischiefs it is now ordered, that none of the Prothonotaries of this Court, shall hereafter deliver any Roll, or Rolls to any such Attorney or Clarke, who appears to be a Defalter against this Order, in not bringing back his Rolls in due time, untill they shall have brought in respectively such Roll or Rolls that they had delivered unto them, and that it may appear in whose custo<g ref="char:EOLhyphen"/>dy all Rolls are. It is farther ordered for
+<pb n="59" facs="tcp:34525:33"/>the future, every Attorney or Clarke that shall receive any Roll, either Plea, or Com<g ref="char:EOLhyphen"/>mon from the respective Prothonotaries of this Court, shall sign and set his own hand to such Prothonotarie's Book, from whom they shall receive the same, for the receipt of such Roll or Rolls, and that no Prothono<g ref="char:EOLhyphen"/>tary do deliver any Rolls to any other, but to the proper hands of some known Attorney or Clarke of their respective Offices. And it is farther ordered, that the said respective Prothonotaries of this Court, do and shall the first day of every Term for the future, take an account of what Rolls are wanting, of the precedent Term in their respective Offices, and shall respectively render an ac<g ref="char:EOLhyphen"/>count thereof to this Court, the second day of the succeeding Term, that so the Court may take order for the bringing them in. And it is farther ordered, that every Attorney and Clarke of this Court, that shall receive any Roll or Rolls as aforesaid, Plea, or Com<g ref="char:EOLhyphen"/>mon of this or any other <hi>Easter</hi>-Term for the future, shall bring in the same to the Office from whence he received the same, at or be<g ref="char:EOLhyphen"/>fore the first day of the next <hi>Trinity</hi>-Term, and that the Rolls received of any <hi>Trinity</hi>-Term
+<pb n="60" facs="tcp:34525:34"/>for the future, shall be brought into such Office, at or before the Feast day of St. <hi>Michael</hi> the <hi>Archangel</hi> next ensuing, the said Term yearly. And that Rolls received of any <hi>Michaelmas</hi>-Term, for the future, shall be brought into such Office at or before the sixth day of <hi>January</hi> next, after the said Term yearly. And that the Rolls received of any <hi>Hillary</hi>-Term for the future, shall be brought into such Office, by the space of four days before the Feast of <hi>Easter</hi> next, after the said Term yearly. And it is far<g ref="char:EOLhyphen"/>ther ordered by this Court, that the Clarke of the Essoyns for the future, shall not pre<g ref="char:EOLhyphen"/>sume to deliver any post Rolls, or other Rolls of this Court, to any Attorney or Clarke of this Court, but to the respective Prothonotaries, and other Officers of this Court, that have a right to such Rolls. And if any Attorney or Clarke of this Court, shall at any time for the future, presume to carry any of the Rolls of this Court, into the Country, after they have been delivered to them by the respective Officers, to enter causes there, contrary to the ancient Rules and Orders of this Court, this Court doth declare, that they will cause all the Penal<g ref="char:EOLhyphen"/>ties
+<pb n="61" facs="tcp:34525:34"/>to be inflicted on such persons as shall Act to the contrary, and that upon notice of such Offenders, the Court will farther proceed against them as contemners of the Rules of this Court.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Fra. North.</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Wyndham.</hi>
+                        </item>
+                        <item>
+                           <hi>Job Charlton.</hi>
+                        </item>
+                        <item>
+                           <hi>Creswell Levinz.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:34525:35"/>
+            <head>A Catalogue of some Books, Printed for <hi>Robert Pawlet,</hi> at the Bible in <hi>Chancery-Lane,</hi> near <hi>Fleet-street.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>THe Lord Keeper's Speech to Mr. Serjeant</hi> Saunders, <hi>at the time he was Sworn Lord Cheif Justice of his Majestie's Court of Kings-Bench, Tuesday the</hi> 23d. <hi>of</hi> nuary, 1682.</item>
+               <item>
+                  <hi>A Collection of Rules and Orders now used in Chancery.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Francis Moor<hi>'s Reports.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Geffrey Palmer<hi>'s Reports.</hi>
+               </item>
+               <item>
+                  <hi>Baron</hi> Savill<hi>'s Reports in the Exchequer.</hi>
+               </item>
+               <item>
+                  <hi>The Reports of</hi> John Aleyn, <hi>late of</hi> Grays-Inn, <hi>Esq</hi>
+               </item>
+               <item>
+                  <hi>President of Presidents, wherein there is an Extract of all the general Learning and forms of Presidents now Extant.</hi>
+               </item>
+               <item>
+                  <hi>Ʋnity and Peace, or the Duty of the People, in respect of Communion with our Church, delivered in two Sermons by</hi> Richard Lucas, <hi>Vicar of St.</hi> Stephens Coleman-street London, 1682.</item>
+               <item>
+                  <hi>Villare Anglicum, or a View of all the Cities, Towns, Vil<g ref="char:EOLhyphen"/>lages,</hi> &amp;c. <hi>In</hi> England <hi>and</hi> Wales, <hi>alphabetically com<g ref="char:EOLhyphen"/>pos'd, so that naming any Town or Place, you may readily find in what Shire, Hundred, Rape, Wapentake it is in: Also the number of Bishopricks, and Counties under their several Jurisdictions, and the Shire-Towns, Bur<g ref="char:EOLhyphen"/>roughs, and Parishes in each County, by the appoint<g ref="char:EOLhyphen"/>ment of the Eminent Sir</hi> Henry Spelman, <hi>Kt.</hi>
+               </item>
+               <item>
+                  <hi>Christian Thoughts, for every day of the Month.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:34525:35"/>
+         </div>
+      </back>
+   </text>
+</TEI>
